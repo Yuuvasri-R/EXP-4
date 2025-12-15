@@ -61,6 +61,7 @@ HALF WAVE:
 ![WhatsApp Image 2025-12-13 at 21 01 58](https://github.com/user-attachments/assets/a9990ded-75e0-472d-9493-f123eb5caf92)
 FULL WAVE:
 <img width="766" height="398" alt="Screenshot 2025-12-12 112541" src="https://github.com/user-attachments/assets/d317dba9-42dd-434a-96f8-d0a845862951" />
+
 <img width="814" height="655" alt="Screenshot 2025-12-12 112615" src="https://github.com/user-attachments/assets/820e4485-aff9-4168-8466-073664e21ad5" />
 
 RESULT:
@@ -72,13 +73,6 @@ Input and Output waveforms of a half and full bridge-wave with /without filter a
 
 
 
-...
-
-
-
-
-
-
 
 ...
 
@@ -98,7 +92,20 @@ Input and Output waveforms of a half and full bridge-wave with /without filter a
 
 
 
+
 ...
+
+
+
+
+
+
+
+
+
+
+...
+
 
 
 
@@ -122,29 +129,8 @@ Input and Output waveforms of a half and full bridge-wave with /without filter a
 
 
 
-...
-
-
-
-
-
-
-
-
-
-
 
 ...
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -162,3 +148,48 @@ Input and Output waveforms of a half and full bridge-wave with /without filter a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
