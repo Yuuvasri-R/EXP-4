@@ -69,10 +69,6 @@ Input and Output waveforms of a half and full bridge-wave with /without filter a
 
 
 
-...
-
-
-
 
 ...
 
@@ -86,11 +82,57 @@ Input and Output waveforms of a half and full bridge-wave with /without filter a
 
 
 
+
 ...
+
+
+
+
+
+
+...
+
 
 
 
 ....
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
