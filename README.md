@@ -1,20 +1,23 @@
 # EXP-4
-EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
+EXP. NO. 4. HALFWAVE  AND FULL WAVE  RECTIFIERS
 
-AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
+# AIM:
+To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
-COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
+# COMPONENTS  AND  EQUIPMENT  REQUIRED:
+Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
 
-THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
+# THEORY: 
+Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
-Half Wave Rectifier
+# Half Wave Rectifier
 
 
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
 
 
-Full Wave Rectifier
+# Full Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
 because of the voltage drop across the diode.
 During the positive half cycle of the secondary voltage, diodes      and      are forward biased and diodes and      are reverse biased. Therefore, current flows through the secondary winding, diode     , load resistor
@@ -38,15 +41,27 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+![WhatsApp Image 2025-12-15 at 18 21 29](https://github.com/user-attachments/assets/3a194d59-8835-42b1-a7f9-818143f9eddb)
+
 Bridge rectifier with filter:
+![WhatsApp Image 2025-12-15 at 18 21 29 (1)](https://github.com/user-attachments/assets/eafcd322-0fac-42fe-893c-b551b3d11daa)
 
 TABULAR COLUMN
 Rectifier without filter
+![WhatsApp Image 2025-12-15 at 18 23 48](https://github.com/user-attachments/assets/56592d2d-500a-496e-95fa-50bb6aea260a)
+
 TABULAR COLUMN
 Rectifier with filter
+![WhatsApp Image 2025-12-15 at 18 25 00](https://github.com/user-attachments/assets/429fa001-b177-4a18-90c8-81cafd2a4e0e)
 
 WAVEFORM:
+HALF WAVE:
+![WhatsApp Image 2025-12-13 at 21 01 58](https://github.com/user-attachments/assets/332110f2-296c-41d8-beb6-4abcc13178d9)
 
+![WhatsApp Image 2025-12-13 at 21 01 58](https://github.com/user-attachments/assets/a9990ded-75e0-472d-9493-f123eb5caf92)
+FULL WAVE:
+<img width="766" height="398" alt="Screenshot 2025-12-12 112541" src="https://github.com/user-attachments/assets/d317dba9-42dd-434a-96f8-d0a845862951" />
+<img width="814" height="655" alt="Screenshot 2025-12-12 112615" src="https://github.com/user-attachments/assets/820e4485-aff9-4168-8466-073664e21ad5" />
 
 RESULT:
 
