@@ -68,9 +68,6 @@ RESULT:
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
 
 
-...
-
-
 
 ...
 
@@ -78,6 +75,28 @@ Input and Output waveforms of a half and full bridge-wave with /without filter a
 
 
 ...
+
+
+
+
+
+...
+
+
+
+
+
+...
+
+
+
+....
+
+
+
+
+
+
 
 
 
